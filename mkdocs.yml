@@ -1,0 +1,7 @@
+site_name: "node-app-4 Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
