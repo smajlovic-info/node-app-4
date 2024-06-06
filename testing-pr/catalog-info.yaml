@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "node-app-4"
+  description: "Testing PR with reporting"
+  annotations:
+    github.com/project-slug: smajlovic-info/node-app-4
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: 
